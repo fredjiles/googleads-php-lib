@@ -1,3 +1,9 @@
+# Temporary clone use at your own risk
+
+We are using this cloned repo as a work around until we finish our migration of our current outdated system.  This version comes with no 
+guarantees, and is only known to work for our specific use cases and functionality.
+
+Word to the wise keep up on package updates so you never have to clone a repo.
 ## Old Google Ads API PHP Client Library (deprecated)
 
 This project hosts the PHP client library for the various SOAP-based Ads APIs
